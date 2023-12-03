@@ -10,3 +10,4 @@ Compilex is used to compile the code written by the user.
 4. The next step is to run the  project using the command: "npm start" or "yarn start"
 This will run the project locally and you can acess CodeIt on the port 8000
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PLEASE USE THIS GOOGLE DRIVE LINK TO WATCH THE SAMPLE VIDEO OF CodeIt IDE https://drive.google.com/file/d/1U_th8175V1d5A_s_NITMOMq2MHocWCXT/view?usp=sharing
